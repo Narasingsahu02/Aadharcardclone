@@ -95,8 +95,12 @@ This project simulates an Aadhaar application form system. It is a standalone de
 
 ## Screenshots
 
+---
+
+## Screenshots
+
 ### Form Interface
-![Form Screenshot](Screenshot 2024-12-27 001400.png)
+![Form Screenshot](Screenshot%202024-12-27%20001400.png)
 
 ### Aadhaar Card Preview
 ![Card Preview Screenshot](assets/card-preview-screenshot.png)
